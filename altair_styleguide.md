@@ -39,23 +39,23 @@ Make sure you read through this document carefully.
 ## Naming Convention
 
 1. In General:
-  - Class names must be written in `UpperCamelCase`
+   - Class names must be written in `UpperCamelCase`
 2. File Names:
-  - File names must be written in `snake_case`
-  - Name files based on `object_action`
-    - > File: customer_add.py
+   - File names must be written in `snake_case`
+   - Name files based on `object_action`
+     - > File: customer_add.py
 3. CSS:
-  - Classes must be written in `dash-case`
+   - Classes must be written in `dash-case`
 4. PHP:
-  - Variables and Method names must be written in `lowerCamelCase`
-  - Constants must be written in `CONSTANT_CASE`
+   - Variables and Method names must be written in `lowerCamelCase`
+   - Constants must be written in `CONSTANT_CASE`
 5. Python:
-  - Everything except Class names must be written in `snake_case`
+   - Everything except Class names must be written in `snake_case`
 6. SQL:
-  - No hyphens
-  - Database names and Table names must be written in `snake_case`
-    - `Database_name`
-    - `table_name`, `field_name`
+   - No hyphens
+   - Database names and Table names must be written in `snake_case`
+     - `Database_name`
+     - `table_name`, `field_name`
 
 ## Classes
 
